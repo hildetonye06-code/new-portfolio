@@ -1,0 +1,14 @@
+# Fichiers système Mac
+.DS_Store
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Dossier IDE PyCharm
+.idea/
+*.iml
+
+# Fichiers temporaires
+*.tmp
+*.log
